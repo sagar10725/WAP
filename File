@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+   <head>
+     <meta charset="UTF-8">
+     <title>SAGAR DESAHR</title>
+     <link href="stylecss.css" type="text/css" rel="stylesheet">
+   </head>
+    
+   <body>
+   <div clas="left">
+<h1> hello body </h1>
+<article class="article" >this is an article 1</article>
+</div>
+
+<div class right>
+</div>
+</body>
+</html>

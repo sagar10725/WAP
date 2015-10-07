@@ -1,0 +1,149 @@
+/*
+
+author: sagar
+*/
+*{
+    margin: 0; padding: 0;
+}
+body{   
+     background-image: url(images/background.png);   
+}
+
+.banner{
+    width: 100%;
+    background-image: url(images/bannerbg.png);
+    background-repeat: repeat-x;
+    overflow: hidden;
+    padding-left: 255px;
+}
+h1{
+    text-align: center;
+}
+.main{
+    width: 960px;
+    margin: 0 auto;
+    border: solid 4px;
+    border-color: gray;
+    border-radius: 20px;
+    overflow: hidden;
+    position: relative;
+   
+}
+.overviewing{    
+    border-top-right-radius: 20px;
+    float: right;
+}
+
+.right{
+    float:right;
+    width: 250px;
+    background-color: #A2B964;
+    height: 1080px;
+    border-bottom-right-radius: 18px;
+}
+
+.right dl{
+    padding: 20px;
+   
+}
+.right dl dt{
+  font-weight: bold;
+    margin-top: 5px;
+}
+
+.right dl dd{
+    padding-left: 20px;
+}
+.rottenbig{
+    background-image: url(images/rbg.png);
+    background-repeat: repeat-x;
+}
+span{
+    font-size: 70px;
+    color:red;
+    font-weight: bold;
+}
+.right dl{
+    font-size: 8pt;
+    font-family: sans-serif;
+    margin: 10px;
+}
+
+
+#leftmargin{
+    float: left;
+    width: 335px;
+    margin-left: 20px;
+   
+   
+}
+
+#rightmargin{
+    float: right;
+    width: 335px;
+    margin-right: 20px;   
+    
+}
+.pleft{
+    margin: 5px;
+    padding: 5px;
+}
+.pright{
+    margin: 5px;
+    padding: 5px;
+}
+.paraleft{
+    border:solid 2px;
+    border-color: gray;
+    border-radius: 10px;
+    background-color: #E8DC9B;  
+    padding: 5px;
+    margin: 5px;
+    overflow: auto;
+   
+}
+
+.paraleft img{
+     float: left;
+     margin-left: 5px;
+    
+}
+.pararight{
+     border:solid 2px;
+    border-color: gray;
+    border-radius: 10px;
+    background-color: #E8DC9B;
+    padding: 5px; 
+    overflow: auto;
+   
+}
+.pararight img{
+    float:left;
+    margin-left: 5px;
+    padding: 5px;
+    
+   
+}
+
+.imag img{
+    float: left;  
+    
+}
+#number{
+    position: absolute;
+    height:40px;  
+    bottom: 0px;
+    background-color: #A2B964;
+    width: 100%;    
+    border-bottom-left-radius: 15px;
+}
+#number p{
+    text-align: center;
+}
+.validator{
+    position: fixed;
+    bottom: 0;
+    right: 0;   
+    opacity: 0.5;
+}
+

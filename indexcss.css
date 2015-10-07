@@ -1,0 +1,36 @@
+body{
+    background-image: url(movie/images/background.png);
+    color:#ff22;
+    
+}
+
+.courselist {
+    color: black;
+    margin: 10px;
+    font-size: 24px;
+    
+}
+.list{
+    text-decoration: none;
+    padding: 10px;
+  
+}
+.list li{
+    display: inline;
+    padding: 10px;
+  
+    
+}
+
+.profileimage{    
+    height:450;
+    width:400px;
+    margin-left: 30px;
+    
+}
+h3,h2{
+   margin: 10px;
+}
+h3{
+    margin-left: 60px;
+}

@@ -1,0 +1,6 @@
+sagar deshar,25,M,sagar,sagar,er,Windows,12,55
+sabi,19,F,sabi,sani,er,Windows,19,40
+samir karki,26,M,samir,samir,TYP,Linux,12,80
+binita,23,F,binata,binita,er,Windows,12,50
+sunita,19,F,sunita,sunita,er,Windows,19,40
+bibek,19,M,bibek,bibek,er,Windows,12,50,Sign Up
