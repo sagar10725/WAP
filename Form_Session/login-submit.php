@@ -10,6 +10,7 @@ if($_POST){
         $result = $stmt->fetch(PDO::FETCH_ASSOC);
         if(pasSword_verify($password,$result['pass'])){
             $user_data = $result;
+            $_SESSION["user_data"] = $user_data;
         }
           
 //var_dump($user_data);die();
